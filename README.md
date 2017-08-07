@@ -1,2 +1,2 @@
 # Sort
-Python Sorting
+Python Sorting- Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
